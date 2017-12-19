@@ -45,7 +45,7 @@ h6 {
 }
 
 .bg-primary {
-    background-color: #f05f40!important
+    background-color: #2B343A!important
 }
 
 .bg-dark {
@@ -341,6 +341,10 @@ header.masthead p {
   clear: both;
 }
 
+#about {
+    background: #fff;    
+}
+
 /* -------------------------------- 
 
 Main components 
@@ -361,7 +365,7 @@ Main components
   left: 25px;
   height: 100%;
   width: 4px;
-  background: #7E57C2;
+  background: #f05f40;
 }
 @media only screen and (min-width: 1170px) {
   #cd-timeline {
@@ -408,10 +412,10 @@ Main components
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  box-shadow: 0 0 0 4px #7E57C2, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 0 4px #913e2c, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
 }
 .cd-timeline-img {
-  background: #673AB7;
+  background: #cb8474;
 }
 @media only screen and (min-width: 1170px) {
   .cd-timeline-img {
